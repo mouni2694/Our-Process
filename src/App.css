@@ -1,0 +1,18 @@
+.container{
+  padding:20px;
+}
+.heading{
+  text-align:center;
+  color:navy;
+}
+.row{
+  padding:20px;
+  margin:20px;
+}
+.card-title{
+  color:navy;
+  font-weight:bold;
+}
+.serialNumber{
+  color:green;
+}
